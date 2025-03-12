@@ -11,8 +11,13 @@ A simple Go project demonstrating [your project’s purpose].
 
 ## 👩🏻‍💻 Terminal code
 
-- `sh go build`
-- `sh go run`
+```bash
+go build
+```
+
+```bash
+go run
+```
 
 ## 📂 Project Structure
 
