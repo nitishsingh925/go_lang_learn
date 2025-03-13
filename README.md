@@ -23,3 +23,5 @@ go run
 
 - 1_hello_world
   - main.go
+- 2_simple_values
+  - main.go
