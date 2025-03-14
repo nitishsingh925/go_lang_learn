@@ -25,3 +25,5 @@ go run
   - main.go
 - 2_simple_values
   - main.go
+- 3_variables
+  - variables.go
