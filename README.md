@@ -29,3 +29,5 @@ go run
   - variables.go
 - 4_constants
   - constants.go
+- 5_for
+  - for.go
