@@ -27,3 +27,5 @@ go run
   - main.go
 - 3_variables
   - variables.go
+- 4_constants
+  - constants.go
