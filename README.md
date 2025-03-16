@@ -31,3 +31,5 @@ go run
   - constants.go
 - 5_for
   - for.go
+- 6_if_else
+  - ifelse.go
