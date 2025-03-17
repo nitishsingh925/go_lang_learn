@@ -33,3 +33,5 @@ go run
   - for.go
 - 6_if_else
   - ifelse.go
+- 7_switch
+  - switch.go
