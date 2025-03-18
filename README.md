@@ -35,3 +35,5 @@ go run
   - ifelse.go
 - 7_switch
   - switch.go
+- 8_switch
+  - arrays.go
