@@ -37,3 +37,5 @@ go run
   - switch.go
 - 8_switch
   - arrays.go
+- 9_slices
+  - slices.go
