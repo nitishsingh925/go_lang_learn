@@ -39,3 +39,5 @@ go run
   - arrays.go
 - 9_slices
   - slices.go
+- 10_maps
+  - maps.go
