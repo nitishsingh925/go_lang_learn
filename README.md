@@ -41,3 +41,5 @@ go run
   - slices.go
 - 10_maps
   - maps.go
+- 11_range
+  - range.go
