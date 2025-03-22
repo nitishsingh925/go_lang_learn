@@ -43,3 +43,5 @@ go run
   - maps.go
 - 11_range
   - range.go
+- 12_functions
+  - functions.go
