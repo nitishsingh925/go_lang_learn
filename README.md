@@ -45,3 +45,5 @@ go run
   - range.go
 - 12_functions
   - functions.go
+- 13_variadic_functions.go
+  - variadix.go
