@@ -47,3 +47,5 @@ go run
   - functions.go
 - 13_variadic_functions.go
   - variadix.go
+- 14_closures.go
+  - closures.go
