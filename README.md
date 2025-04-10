@@ -49,3 +49,5 @@ go run
   - variadix.go
 - 14_closures.go
   - closures.go
+- 15_pointers.go
+  - pointers.go
